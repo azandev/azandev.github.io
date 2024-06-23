@@ -262,7 +262,4 @@
   new PureCounter();
 
 })()
-function viewProjectThesis() {
-  var pdfUrl = 'assets/fyp/FYP Thesis.pdf';
-  window.open(pdfUrl, '_blank');
-  }
+
